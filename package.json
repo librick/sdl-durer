@@ -1,11 +1,22 @@
 {
   "name": "sdl-durer",
   "version": "1.0.0",
-  "description": "simple SDL rendering of Dürer's solid",
+  "description": "minimal SDL renderer of Dürer's solid",
   "main": "dist/durer.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librick/sdl-durer.git"
+  },
+  "keywords": [
+    "SDL"
+  ],
   "author": "Eric McDonald",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/librick/sdl-durer/issues"
+  },
+  "homepage": "https://github.com/librick/sdl-durer#readme"
 }
