@@ -1,4 +1,4 @@
-## Durer Solid, rendered in SDL
+## Dürer's Solid, rendered in SDL
 This was intended as a way to play with SDL, WebAssembly and Emscripten.  
 It's a simple toy SDL example.  
 
