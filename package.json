@@ -1,6 +1,6 @@
 {
   "name": "sdl-durer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minimal SDL renderer of Dürer's solid",
   "main": "dist/durer.mjs",
   "scripts": {
